@@ -1,0 +1,17 @@
+* {
+  font-family: 'Karma', serif;
+}
+
+.form-empresa .input-number {
+  -moz-appearance: textfield;
+}
+
+.form-empresa .input-number::-webkit-outer-spin-button,
+.form-empresa .input-number::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.table-vagas td, .table-empresas td {
+  vertical-align: middle !important;
+}
